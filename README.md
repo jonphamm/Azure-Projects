@@ -1,8 +1,7 @@
-# Jon Pham's Microsft Azure Projects
+# Jon Pham's Microsoft Azure Project
 
 # Azure Cloud Migration Policies
 
-Welcome to the **Azure Cloud Migration Policies** repository!  
 This collection contains policy definitions and best practices designed to help organizations migrate workloads from on-premises environments to Microsoft Azure with security, compliance, and governance in mind.
 
 ---
@@ -60,20 +59,6 @@ Migrating to the cloud can be complex. These policies provide a standardized fra
 - [Azure Role-Based Access Control](https://learn.microsoft.com/en-us/azure/role-based-access-control/)
 - [Microsoft Cloud Adoption Framework](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/)
 
----
 
-## 🤝 Contributing
-
-Contributions, suggestions, and improvements are welcome! Please open an issue or submit a pull request.
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License.
-
----
-
-*Happy migrating and securing your Azure cloud environment!* ☁️🔐
 
 
