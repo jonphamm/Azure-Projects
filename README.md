@@ -31,17 +31,6 @@ Migrating to the cloud can be complex. These policies provide a standardized fra
 
 ---
 
-## 📦 Repository Contents
-
-| Folder/File       | Description                               |
-|-------------------|-------------------------------------------|
-| `/policies`       | JSON policy definition files               |
-| `/scripts`        | Automation scripts for policy assignments |
-| `/docs`           | Documentation and best practice guides     |
-| `README.md`       | This file                                  |
-
----
-
 ## ⚙️ Usage
 
 1. Review the policy definitions in `/policies`.
