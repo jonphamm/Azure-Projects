@@ -1,6 +1,6 @@
 # Jon Pham's Microsoft Azure Project
 
-Azure Cloud Migration Policies: This collection contains policy definitions and best practices designed to help organizations migrate workloads from on-premises environments to Microsoft Azure with security, compliance, and governance in mind.
+Azure Cloud Migration Policies: This collection contains policy definitions and best practices designed to help organizations migrate workloads from on-premises environments to Microsoft Azure with security and compliance in mind.
 
 ---
 
@@ -15,7 +15,7 @@ Migrating to the cloud can be complex. These policies provide a standardized fra
 - Ensure consistent policy enforcement during cloud migration.
 - Minimize risk and maintain compliance with organizational and regulatory requirements.
 - Simplify governance of Azure resources throughout the migration lifecycle.
-- Enable automation and repeatability of policy deployment.
+- Enable automation of policy deployment.
 
 
 
